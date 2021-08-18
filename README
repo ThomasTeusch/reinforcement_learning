@@ -1,0 +1,2 @@
+This is an example of an RL algorithm. 
+I found, that training with an adaptive hyperparameter update (alpha, gamma, epsilon) finds a stable solution much quicker than without.
